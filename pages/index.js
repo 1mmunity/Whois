@@ -107,7 +107,7 @@ export default function Home() {
       title: 'Whois',
       content: <><b>Whois</b> is an already built site for telling who you are and what you do.
       This site is built on top of <b>Whois</b>. <b>No backend needed or additional programming</b>.</>,
-      href: 'https://github.com/1mmunity',
+      href: 'https://github.com/1mmunity/whois',
       image: '../assets/whoisme.jpg',
     },
     {
